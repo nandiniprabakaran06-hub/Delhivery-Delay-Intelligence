@@ -1,0 +1,5 @@
+k,cluster_sizes,within_mean_distance,across_mean_distance,separation_ratio
+2,15-9,1.262,3.6523,2.894
+3,9-8-7,0.6018,3.2453,5.3928
+4,8-7-5-4,0.4809,3.032,6.3047
+5,8-7-4-3-2,0.432,2.9747,6.8866

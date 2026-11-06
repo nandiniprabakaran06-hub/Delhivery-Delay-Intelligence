@@ -1,0 +1,2 @@
+TN,FP,FN,TP,accuracy,precision,recall,f1,model,threshold
+125,14,10,31,0.8667,0.6889,0.7561,0.7209,Final_Random_Forest,0.5

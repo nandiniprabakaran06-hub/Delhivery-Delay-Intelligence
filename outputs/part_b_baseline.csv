@@ -1,0 +1,2 @@
+model,MAE,MSE,RMSE,R2
+Baseline_Mean,15.7952,355.5204,18.8552,-0.0212

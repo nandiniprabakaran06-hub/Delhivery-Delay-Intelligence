@@ -1,0 +1,5 @@
+model,TN,FP,FN,TP,accuracy,precision,recall,f1
+Blind_Baseline,138,0,42,0,0.7667,0.0,0.0,0.0
+Logistic Regression,128,10,7,35,0.9056,0.7778,0.8333,0.8046
+Decision Tree,133,5,15,27,0.8889,0.8438,0.6429,0.7297
+Random Forest,132,6,11,31,0.9056,0.8378,0.7381,0.7848

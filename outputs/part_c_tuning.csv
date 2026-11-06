@@ -1,0 +1,4 @@
+method,n_estimators,max_depth,min_samples_leaf,cv_folds,total_fits,best_cv_accuracy,val_f1
+Default,100,None,1,0,1,,0.8333
+GridSearch,100,6,1,5,135,0.8952,0.775
+RandomSearch,50,6,1,5,45,0.8905,0.7848
